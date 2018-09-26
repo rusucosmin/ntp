@@ -1,6 +1,13 @@
 # ntp
 Network Tour Project ✈️
 
+## TODO
+* Add charts for analysing central quantities
+  a. Graph visualisation (bonus with maps)
+  b. Add scatter plot for probabilities of outbound and inbound degree
+  c. Add plot for the probability of the number of stops of flights
+  d. Plot Clustering coefficient
+
 ## Install
 
 ```
