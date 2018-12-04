@@ -286,9 +286,16 @@
    },
    "outputs": [],
    "source": [
+    "<<<<<<< local\n",
     "# sort the eigenvalues\n",
+    "\n",
+    "e = eigenvalues_sorted # Ordered Laplacian eigenvalues.\n",
+    "U = eigenvector_sorted # Ordered graph Fourier basis.\n",
+    "=======\n",
+    "#sort the eigenvalues\n",
     "e = eigenval # Ordered Laplacian eigenvalues.\n",
-    "U = np.array(eigenvec) # Ordered graph Fourier basis."
+    "U = np.array(eigenvec) # Ordered graph Fourier basis.\n",
+    ">>>>>>> remote"
    ]
   },
   {
