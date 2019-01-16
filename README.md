@@ -1,7 +1,16 @@
 # ntp
 Network Tour Project ✈️
 
-*Proposition*: for data interpretation look at whether the data indicates that flight routes data indicates that it is a random network (even if we know it won't match) and to check for the scale free network property.
+## Outline
+
+This repository contains our work for the A Network Tour of Data Science
+course. The "Homework *" folders contains our notebooks for the course required
+milestones. The notebook 'Airline Analysis' contains our work for the original
+part of the course.
+
+*Proposition*: for data interpretation look at whether the data indicates that
+flight routes data indicates that it is a random network (even if we know it
+won't match) and to check for the scale free network property.
 
 ## How to run the code
 
