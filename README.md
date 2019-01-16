@@ -1,17 +1,9 @@
 # ntp
 Network Tour Project ✈️
 
-## TODO
-* Add charts for analysing central quantities
-  a. Graph visualisation (bonus with maps)
-  b. Add scatter plot for probabilities of outbound and inbound degree
-  c. Add plot for the probability of the number of stops of flights
-  d. Plot Clustering coefficient
-
-
 *Proposition*: for data interpretation look at whether the data indicates that flight routes data indicates that it is a random network (even if we know it won't match) and to check for the scale free network property.
 
-## Install
+## How to run the code
 
 ```
 # Clone the repository
