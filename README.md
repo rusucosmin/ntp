@@ -8,9 +8,8 @@ course. The "Homework *" folders contains our notebooks for the course required
 milestones. The notebook 'Airline Analysis' contains our work for the original
 part of the course.
 
-*Proposition*: for data interpretation look at whether the data indicates that
-flight routes data indicates that it is a random network (even if we know it
-won't match) and to check for the scale free network property.
+The network of airlines spans the entire globe and enables us to travel from Greenland to Australia with only a few stops in-between. This network is composed of subnetworks corresponding to individual airlines. In this project, we analyze these airline networks to gain insight into what the structure of an airline’s flight network tells us about the airline. We discover how the topology of airline networks correlates with their price class and geographical location. We also discover that these same topological features in combination with robustness measures strongly correlate with the airlines average delay times. Using this information, we find competitors and give recommendations on how airlines could form strategic partnerships to increase their competitive advantage, by increasing the robustness and reach of their network.
+
 
 ## How to run the code
 
