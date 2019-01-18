@@ -1,5 +1,6 @@
-# ntp
-Network Tour Project ✈️
+# Network Tour Project ✈️
+
+A network topology analysis of the airline industry"
 
 ## Outline
 
